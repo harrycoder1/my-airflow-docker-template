@@ -16,3 +16,11 @@ airflow users create \
     --email new_user@example.com \
     --password 1234
 
+##### minio 
+    - username  : ROOTNAME
+    - password  : CHANGEME123
+
+##### postgres sql : 
+    - username : airflow 
+    - password : airflow 
+    - database : postgres
